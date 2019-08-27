@@ -9,6 +9,8 @@
 #   \__,_|_|  \___|\__,_|_| |_| |_|___/ .
 #
 # A 'Fog Creek'–inspired demo by Kenneth Reitz™
+# This project is copied from Kenneth Reitz's demo
+# and modified to practice coding with Flask and Python
 
 import os
 from flask import Flask, request, render_template, jsonify
